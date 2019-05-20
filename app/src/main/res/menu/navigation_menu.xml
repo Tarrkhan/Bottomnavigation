@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nearbyid"
+        android:title="@string/nearby"
+        android:icon="@drawable/anchor"
+        android:orderInCategory="3"/>
+    <item
+        android:icon="@drawable/debugbridge"
+        android:title="@string/debug"
+        android:id="@+id/debug"
+        android:orderInCategory="2"/>
+    <item
+        android:icon="@drawable/bottlewine"
+        android:title="@string/wine"
+        android:id="@+id/wine"
+        android:orderInCategory="1"/>
+    <item
+        android:id="@+id/bullhorn"
+        android:icon="@drawable/bullhorn"
+        android:title="@string/bullhorn"
+        android:orderInCategory="4"/>
+    <item
+        android:icon="@drawable/cannabis"
+        android:title="@string/cannibas"
+        android:id="@+id/cannibas"
+        android:orderInCategory="5"/>
+
+
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bottomnavigation</string>
+    <string name="nearby">nearby</string>
+    <string name="debug">Debug</string>
+    <string name="wine">wine</string>
+    <string name="bullhorn">bullhorn</string>
+    <string name="cannibas">cannibas</string>
+</resources>
